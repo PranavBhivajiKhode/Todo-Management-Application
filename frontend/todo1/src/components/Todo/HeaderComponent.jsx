@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import { useAuth } from "./security/AuthContext";
-import { useState } from "react";
 
 function HeaderComponent() {
 
